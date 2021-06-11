@@ -1,0 +1,10 @@
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS042MereniAlgoritmuPomaleRazeni.csprojAssemblyReference.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS042MereniAlgoritmuPomaleRazeni.csproj.GenerateResource.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS042MereniAlgoritmuPomaleRazeni.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+D:\Program Files (x86)\Favy\ŠKOLA\OnlineVýuka\PRG\CS042MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb

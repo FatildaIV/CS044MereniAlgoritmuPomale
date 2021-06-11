@@ -1,0 +1,10 @@
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS040MereniAlgoritmuPomaleRazeni.csprojAssemblyReference.cache
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS040MereniAlgoritmuPomaleRazeni.csproj.GenerateResource.cache
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS040MereniAlgoritmuPomaleRazeni.csproj.CoreCompileInputs.cache
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+C:\Users\vensy\OneDrive\Plocha\CS040MereniAlgoritmuRazeniPomale\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb
